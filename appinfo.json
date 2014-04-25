@@ -1,0 +1,35 @@
+{
+    "appKeys": {},
+    "resources": {
+        "media": [
+            {
+                "name": "IMAGE_ARROW",
+                "file": "images/arrow.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_FLAME",
+                "file": "images/flame.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_MENU_LOGO",
+                "file": "images/menulogo.png",
+                "type": "png",
+                "menuIcon": true
+            }
+        ]
+    },
+    "watchapp": {
+        "watchface": true
+    },
+    "shortName": "Dharma",
+    "versionLabel": "0.1",
+    "versionCode": 0,
+    "longName": "Dharma Watch",
+    "companyName": "miloprice",
+    "capabilities": [
+        ""
+    ],
+    "uuid": "6ccaf5d5-0121-45db-9280-7ceea12e4b35"
+}
