@@ -3,6 +3,56 @@
     "resources": {
         "media": [
             {
+                "name": "IMAGE_SWAN",
+                "file": "images/swan.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_PEARL",
+                "file": "images/pearl.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_ORCHID",
+                "file": "images/orchid.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_TEMPLE",
+                "file": "images/temple.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_TEMPEST",
+                "file": "images/tempest.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_STAFF",
+                "file": "images/staff.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_LOOKINGGLASS",
+                "file": "images/lookingglass.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_LAMPPOST",
+                "file": "images/lamppost.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_HYDRA",
+                "file": "images/hydra.png",
+                "type": "png"
+            },
+            {
+                "name": "IMAGE_DHARMA",
+                "file": "images/dharma.png",
+                "type": "png"
+            },
+            {
                 "name": "IMAGE_ARROW",
                 "file": "images/arrow.png",
                 "type": "png"
